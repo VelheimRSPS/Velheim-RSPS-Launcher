@@ -7,7 +7,7 @@
 [![](https://discordapp.com/api/guilds/402767531816910858/widget.png?style=shield)](https://discord.gg/bAtRnqb)
 
 # Velheim RSPS Launcher
-The Official Launcher for Velheim RSPS
+Windows Installer for Velheim RSPS
 
 ![](https://raw.githubusercontent.com/Discord-Coding-Community/Velheim-RSPS-Launcher/main/app/logo.png)
 
