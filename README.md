@@ -1,18 +1,18 @@
-[![](https://img.shields.io/github/release-date/Discord-Coding-Community/Velheim-RSPS-Launcher)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher/releases)
-[![](https://img.shields.io/github/issues-pr-raw/Discord-Coding-Community/Velheim-RSPS-Launcher)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher)
-[![](https://img.shields.io/github/issues-raw/Discord-Coding-Community/Velheim-RSPS-Launcher)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher/blob/main/.github/ISSUES/bug_report.md)
-[![](https://img.shields.io/github/last-commit/Discord-Coding-Community/Velheim-RSPS-Launcher/main)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher)
-[![](https://img.shields.io/github/languages/code-size/Discord-Coding-Community/Velheim-RSPS-Launcher)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher)
-[![](https://img.shields.io/github/downloads/Discord-Coding-Community/Velheim-RSPS-Launcher/total)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher/releases/)
-[![](https://discordapp.com/api/guilds/402767531816910858/widget.png?style=shield)](https://discord.gg/bAtRnqb)
+[![RELEASE DATE](https://img.shields.io/github/release-date/Discord-Coding-Community/Velheim-RSPS-Launcher)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher/releases)
+[![PULL REQUESTS](https://img.shields.io/github/issues-pr-raw/Discord-Coding-Community/Velheim-RSPS-Launcher)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher)
+[![BUG REPORTS](https://img.shields.io/github/issues-raw/Discord-Coding-Community/Velheim-RSPS-Launcher)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher/blob/main/.github/ISSUES/bug_report.md)
+[![LAST COMMIT](https://img.shields.io/github/last-commit/Discord-Coding-Community/Velheim-RSPS-Launcher/main)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher)
+[![TOTAL DOWNLOADS](https://img.shields.io/github/downloads/Discord-Coding-Community/Velheim-RSPS-Launcher/total)](https://github.com/Discord-Coding-Community/Velheim-RSPS-Launcher/releases/)
+[![DISCORD SERVER](https://discordapp.com/api/guilds/402767531816910858/widget.png?style=shield)](https://discord.gg/bAtRnqb)
 
 # Velheim RSPS Launcher
 Windows Installer for Velheim RSPS
 
-![SPLASH-BANNER](https://raw.githubusercontent.com/Discord-Coding-Community/Velheim-RSPS-Launcher/main/app/logo.png)
+![BANNER IMAGE](https://raw.githubusercontent.com/Discord-Coding-Community/Velheim-RSPS-Launcher/main/app/logo.png)
 
 
 ## Links
+<img align="right" width="150" height="150" src="https://raw.githubusercontent.com/Discord-Coding-Community/Velheim-RSPS-Launcher/main/app/icon.png">
 
  - [Velheim RSPS Website](https://www.velheim.com)
  - [Velheim RSPS Forums](https://www.velheim.com/community)
