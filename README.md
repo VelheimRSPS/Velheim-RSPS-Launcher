@@ -12,7 +12,7 @@ Windows Installer for Velheim RSPS
 
 
 ## Links
-<img align="right" width="150" height="150" src="https://raw.githubusercontent.com/Discord-Coding-Community/Velheim-RSPS-Launcher/main/app/icon.png" alt="https://www.velheim.com">
+<a href="https://www.velheim.com/"> <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/Discord-Coding-Community/Velheim-RSPS-Launcher/main/app/icon.png"></a>
 
  - [Velheim RSPS Website](https://www.velheim.com)
  - [Velheim RSPS Forums](https://www.velheim.com/community)
