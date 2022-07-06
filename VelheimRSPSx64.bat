@@ -1,0 +1,3 @@
+@ECHO OFF
+ECHO Launching VelheimRSPS ...
+src\jre\x64\bin\java.exe -jar src\Velheim718.jar >> app_debug.log 2>&1
