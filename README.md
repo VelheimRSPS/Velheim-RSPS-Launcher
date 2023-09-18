@@ -8,10 +8,10 @@
 # Velheim RSPS Launcher
 Windows Installer for Velheim RSPS
 
-[![BANNER IMAGE](https://gitlab.com/Developer-Corner/development/Velheim-RSPS-Launcher/-/raw/main/app/logo.png)](https://www.velheim.com)
+[![BANNER IMAGE](https://velheim.com/bin/img/new-logo.png)](https://www.velheim.com)
 
 ## Links
-<a href="https://www.velheim.com/"> <img align="right" width="150" height="150" src="https://gitlab.com/Developer-Corner/development/Velheim-RSPS-Launcher/-/raw/main/app/icon.png"></a>
+<a href="https://www.velheim.com/"> <img align="right" width="150" height="150" src="https://velheim.com/bin/img/new-logo.png"></a>
 
  - [Velheim RSPS Website](https://www.velheim.com)
  - [Velheim RSPS Forums](https://www.velheim.com/community)
