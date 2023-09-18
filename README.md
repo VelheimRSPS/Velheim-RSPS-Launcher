@@ -1,7 +1,4 @@
 [![RELEASE DATE](https://img.shields.io/github/release-date/VelheimRSPS/Velheim-RSPS-Launcher)](https://github.com/VelheimRSPS/Velheim-RSPS-Launcher/releases)
-[![PULL REQUESTS](https://img.shields.io/github/issues-pr-raw/VelheimRSPS/Velheim-RSPS-Launcher)](https://github.com/VelheimRSPS/Velheim-RSPS-Launcher/blob/main/.github/ISSUES/feature_request.md)
-[![BUG REPORTS](https://img.shields.io/github/issues-raw/VelheimRSPS/Velheim-RSPS-Launcher)](https://github.com/VelheimRSPS/Velheim-RSPS-Launcher/blob/main/.github/ISSUES/bug_report.md)
-[![LAST COMMIT](https://img.shields.io/github/last-commit/VelheimRSPSVelheimRSPS/Velheim-RSPS-Launcher/main)](https://github.com/VelheimRSPS/Velheim-RSPS-Launcher)
 [![TOTAL DOWNLOADS](https://img.shields.io/github/downloads/VelheimRSPS/Velheim-RSPS-Launcher/total)](https://github.com/VelheimRSPS/Velheim-RSPS-Launcher/releases/)
 [![DISCORD SERVER](https://discordapp.com/api/guilds/402767531816910858/widget.png?style=shield)](https://discord.gg/bAtRnqb)
 
