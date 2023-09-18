@@ -11,7 +11,6 @@ Windows Installer for Velheim RSPS
 [![BANNER IMAGE](https://velheim.com/bin/img/new-logo.png)](https://www.velheim.com)
 
 ## Links
-<a href="https://www.velheim.com/"> <img align="right" width="150" height="150" src="https://velheim.com/bin/img/new-logo.png"></a>
 
  - [Velheim RSPS Website](https://www.velheim.com)
  - [Velheim RSPS Forums](https://www.velheim.com/community)
